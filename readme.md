@@ -7,6 +7,7 @@
 <button onclick="myFunction()">Try it</button>
 
 <script>
+
 function myFunction() {
     alert("I am an alert box!");
 }
